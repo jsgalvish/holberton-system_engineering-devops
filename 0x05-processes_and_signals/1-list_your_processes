@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#print list process
+
+ps -faux
